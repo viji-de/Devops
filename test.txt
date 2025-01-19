@@ -1,3 +1,2 @@
-this is my first line
-this is my second line
-added new line by feature
+it is a test file
+insert added to tag
